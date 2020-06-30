@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rebofriends/static/css/main.7f2a5a39.chunk.css",
-    "main.js": "/rebofriends/static/js/main.1d745f45.chunk.js",
-    "main.js.map": "/rebofriends/static/js/main.1d745f45.chunk.js.map",
+    "main.css": "/rebofriends/static/css/main.90b62051.chunk.css",
+    "main.js": "/rebofriends/static/js/main.7fdc40cf.chunk.js",
+    "main.js.map": "/rebofriends/static/js/main.7fdc40cf.chunk.js.map",
     "runtime-main.js": "/rebofriends/static/js/runtime-main.3ecc8edc.js",
     "runtime-main.js.map": "/rebofriends/static/js/runtime-main.3ecc8edc.js.map",
     "static/css/2.3c03f26f.chunk.css": "/rebofriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.e67c8a70.chunk.js": "/rebofriends/static/js/2.e67c8a70.chunk.js",
     "static/js/2.e67c8a70.chunk.js.map": "/rebofriends/static/js/2.e67c8a70.chunk.js.map",
     "index.html": "/rebofriends/index.html",
-    "precache-manifest.e8d027721c669d8e80acec84b110c79a.js": "/rebofriends/precache-manifest.e8d027721c669d8e80acec84b110c79a.js",
+    "precache-manifest.736d5b41d50e9761dfb4f50a0a8f9502.js": "/rebofriends/precache-manifest.736d5b41d50e9761dfb4f50a0a8f9502.js",
     "service-worker.js": "/rebofriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/rebofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.7f2a5a39.chunk.css.map": "/rebofriends/static/css/main.7f2a5a39.chunk.css.map",
+    "static/css/main.90b62051.chunk.css.map": "/rebofriends/static/css/main.90b62051.chunk.css.map",
     "static/js/2.e67c8a70.chunk.js.LICENSE.txt": "/rebofriends/static/js/2.e67c8a70.chunk.js.LICENSE.txt",
     "static/media/App.css": "/rebofriends/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.3ecc8edc.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e67c8a70.chunk.js",
-    "static/css/main.7f2a5a39.chunk.css",
-    "static/js/main.1d745f45.chunk.js"
+    "static/css/main.90b62051.chunk.css",
+    "static/js/main.7fdc40cf.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84396c862278bbdde12b479db67dd29d",
+    "revision": "cabc685fa46ec8e8c20d8f0072acc518",
     "url": "/rebofriends/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rebofriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "b97af6c5705954d370ac",
-    "url": "/rebofriends/static/css/main.7f2a5a39.chunk.css"
+    "revision": "688065e44e63bbe33f3c",
+    "url": "/rebofriends/static/css/main.90b62051.chunk.css"
   },
   {
     "revision": "cd8ee1a45aac35c2a7b8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rebofriends/static/js/2.e67c8a70.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b97af6c5705954d370ac",
-    "url": "/rebofriends/static/js/main.1d745f45.chunk.js"
+    "revision": "688065e44e63bbe33f3c",
+    "url": "/rebofriends/static/js/main.7fdc40cf.chunk.js"
   },
   {
     "revision": "2572615d54cf056aae1d",
